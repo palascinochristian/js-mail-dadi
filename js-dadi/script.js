@@ -19,7 +19,7 @@ if(playerNumber > cpuNumber){
 
 //Se il numero del computer è maggiore del numero del giocatore allora attribuisco Computer alla flag winner
 else if (cpuNumber > playerNumber){
-    winner ="Computer"
+    winner = "Computer"
 }
 // Altrimenti attribuisco Pareggio alla flag winner nell'eventualità di numero uguale
 else{
